@@ -23,3 +23,11 @@
 [title](https://www.example.com)
 ---
 ![Ñarequipe](https://misrecetascolombia.com/wp-content/uploads/2020/12/Arequipe-Colombiano.jpg)
+---
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
