@@ -22,4 +22,4 @@
 ---
 [title](https://www.example.com)
 ---
-![alt text](image.jpg)
+![Ñarequipe](https://misrecetascolombia.com/wp-content/uploads/2020/12/Arequipe-Colombiano.jpg)
